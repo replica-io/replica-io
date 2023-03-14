@@ -1,4 +1,7 @@
-# Replica_IO
+<div align="center">
+    <img src="doc/img/logo.png" alt="Logo" />
+    <h1>Replica_IO</h1>
+</div>
 
 Replica_IO is a framework for composing practical distributed
 replication protocols.
