@@ -6,8 +6,10 @@
 Replica_IO is a framework for composing practical distributed
 replication mechanisms.
 
-_This project will develop entirely in the open from day one.
-Therefore, more details will appear gradually. Stay tuned!_
+## Status 🌱
+
+This project is in its early stages. It's being developed entirely in
+the open from day one. So more stuff will follow. Stay tuned! 👀
 
 ## License ⚖️
 
