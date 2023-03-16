@@ -33,6 +33,43 @@ only efficient, but also easy to properly apply in practice.
 Discovering and developing those solutions obviously requires
 significant effort. This project is making such effort.
 
+## Goal 🎯
+
+The goal of this project is to develop a well-supported and widely
+used state-of-the-art framework for building distributed replication
+mechanisms, thus greatly facilitating practical implementation of
+highly reliable distributed systems.
+
+Specifically, the framework should provide a carefully designed
+collection of primitives, components, tools, and guidelines for
+developing core mechanisms of fault-tolerant distributed systems, such
+as state machine replication or distributed coordination services.
+Sensibly chosen principles guide the process of designing and
+implementing generic components, such as consensus or various kinds of
+broadcast. These components get constructed out of the corresponding
+protocol logic, more simple components, and fundamental primitives,
+such as asynchronous communication or timer abstractions. Unified
+means of combination ensure great composability of the elements. Fine
+modularity together with built-in capabilities for tracing and
+controlling execution enable effective debugging, validation, and
+analysis. Powerful and convenient tools allow effectively utilizing
+those features. Clear guidelines help using the framework properly by
+explaining its features on simple, easy-to-follow examples.
+
+This framework is conceived as generic and independent from any
+specific target system or use case, embracing different flavors of
+fault-tolerance, consistency, and synchrony models, e.g. strong, weak,
+or eventual consistency under CFT, BFT, or hybrid models with strong,
+partial, or no synchrony assumption. It is particularly concerned not
+only with immediate safety guarantees, but also with ensuring rigorous
+liveness guarantees and memory bounds, as well as further features
+highly desired in practice, such as bootstrapping procedures, online
+reconfiguration, recovery of faulty nodes, and ability to recover from
+a massive system crash (durability).
+
+Last, but not least, it should be highly ergonomic so that developers
+enjoy playing with it while effectively solving their problems.
+
 ## License ⚖️
 
 Source code is licensed under the [Apache License, Version
