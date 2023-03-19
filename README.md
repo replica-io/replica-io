@@ -70,6 +70,19 @@ a massive system crash (durability).
 Last, but not least, it should be highly ergonomic so that developers
 enjoy playing with it while effectively solving their problems.
 
+## Approach 🤓
+
+The approach of this project is best characterized as follows:
+
+  * _open:_ publicly available, transparent, and collaborative;
+  * _understandable:_ intuitive, well documented, and easy to use;
+  * _flexible:_ generic, modular, and easy to integrate;
+  * _holistic:_ taking into account all relevant aspects;
+  * _innovative:_ discovering and using state-of-the-art techniques;
+  * _quality-oriented:_ carefully designed, implemented, and verified;
+  * _iterative:_ starting small — growing strong, delivering value
+    regularly and persistently.
+
 ## License ⚖️
 
 Source code is licensed under the [Apache License, Version
