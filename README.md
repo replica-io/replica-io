@@ -102,3 +102,9 @@ Documentation is licensed under the [Creative Commons Attribution 4.0
 International License][cc-40].
 
 [cc-40]: http://creativecommons.org/licenses/by/4.0/
+
+---
+
+<div align="center">
+    Made with ❤️ on Earth.
+</div>
