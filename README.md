@@ -83,6 +83,16 @@ The approach of this project is best characterized as follows:
   * _iterative:_ starting small — growing strong, delivering value
     regularly and persistently.
 
+## Contributing 🙏
+
+The project's goal is quite ambitious, so your support is more than
+welcome! 🤗
+
+If you are also excited about this project, there are many ways you
+can get involved. A good start is to subscribe for notifications,
+check and participate in open issues, pull requests, discussions.
+Please ask questions, suggest ideas, report problems, submit changes!
+
 ## License ⚖️
 
 Source code is licensed under the [Apache License, Version
