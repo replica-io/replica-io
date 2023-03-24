@@ -83,6 +83,15 @@ The approach of this project is best characterized as follows:
   * _iterative:_ starting small — growing strong, delivering value
     regularly and persistently.
 
+## Roadmap 🏁
+
+- [ ] [M0.1: Initial Ideas](https://github.com/replica-io/replica-io/milestone/1) — exploring the state of the art and coming up with clever ideas
+- [ ] [M0.2: Core Concepts](https://github.com/replica-io/replica-io/milestone/2) — developing the rough ideas into clearly formulated concepts
+- [ ] [M0.3: PoC Implementation](https://github.com/replica-io/replica-io/milestone/3) — verifying the feasibility of the concepts in code
+- [ ] [M1: Prototype](https://github.com/replica-io/replica-io/milestone/4) — demonstrating how the final framework will look like
+- [ ] [M2: MVP](https://github.com/replica-io/replica-io/milestone/5) — unlocking some actual use cases
+- [ ] [M3: Ready for Integration](https://github.com/replica-io/replica-io/milestone/6) — releasing a version ready for integration into production
+      
 ## Contributing 🙏
 
 The project's goal is quite ambitious, so your support is more than
