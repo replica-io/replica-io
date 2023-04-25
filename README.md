@@ -91,7 +91,11 @@ The approach of this project is best characterized as follows:
 - [ ] [M1: Prototype](https://github.com/replica-io/replica-io/milestone/4) — demonstrating how the final framework will look like
 - [ ] [M2: MVP](https://github.com/replica-io/replica-io/milestone/5) — unlocking some actual use cases
 - [ ] [M3: Ready for Integration](https://github.com/replica-io/replica-io/milestone/6) — releasing a version ready for integration into production
-      
+
+## Additional Resources 📎
+
+- [Introduction to Replica_IO](https://youtu.be/oJlryr6bMCo) | [slides](https://docs.google.com/presentation/d/15DsYbejUOlPlECkaM8zqgOp8KJdSSklLfIrWEWeMnUU)
+
 ## Contributing 🙏
 
 The project's goal is quite ambitious, so your support is more than
@@ -99,8 +103,17 @@ welcome! 🤗
 
 If you are also excited about this project, there are many ways you
 can get involved. A good start is to subscribe for notifications,
-check and participate in open issues, pull requests, discussions.
+check and participate in open issues, pull requests, discussions. You
+can also follow the project on [Twitter][twitter-replica-io] for
+high-level updates or jump into an interactive discussion on
+[Discord][discord-replica-io]. Video materials will be published on
+[YouTube][youtube-replica-io].
+
 Please ask questions, suggest ideas, report problems, submit changes!
+
+[twitter-replica-io]: https://twitter.com/Replica_IO
+[discord-replica-io]: https://discord.gg/CzPfN75URD
+[youtube-replica-io]: https://www.youtube.com/@Replica_IO
 
 ## License ⚖️
 
