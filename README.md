@@ -103,14 +103,16 @@ welcome! 🤗
 
 If you are also excited about this project, there are many ways you
 can get involved. A good start is to subscribe for notifications,
-check and participate in open issues, pull requests, discussions. You
-can also follow the project on [Twitter][twitter-replica-io] for
+check and participate in open issues, pull requests, discussions.
+Please check the [project board][project-board] for a better overview.
+You can also follow the project on [Twitter][twitter-replica-io] for
 high-level updates or jump into an interactive discussion on
 [Discord][discord-replica-io]. Video materials will be published on
 [YouTube][youtube-replica-io].
 
 Please ask questions, suggest ideas, report problems, submit changes!
 
+[project-board]: https://github.com/orgs/replica-io/projects/1
 [twitter-replica-io]: https://twitter.com/Replica_IO
 [discord-replica-io]: https://discord.gg/CzPfN75URD
 [youtube-replica-io]: https://www.youtube.com/@Replica_IO
