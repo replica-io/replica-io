@@ -1,10 +1,18 @@
 <div align="center">
     <img src="doc/img/logo.png" alt="Logo" />
     <h1>Replica_IO</h1>
+    <p>
+        Replica_IO is a framework for composing practical 
+        distributed replication mechanisms.
+    </p>
+    <p>
+        <a href="https://replica-io.dev/" target="_blank">Website</a> |
+        <a href="https://github.com/orgs/replica-io/projects/1">Project Board</a> |
+        <a href="https://discord.gg/CzPfN75URD">Discord</a> |
+        <a href="https://www.youtube.com/@Replica_IO">YouTube</a> |
+        <a href="https://x.com/Replica_IO">X / Twitter</a>
+    </p>
 </div>
-
-Replica_IO is a framework for composing practical distributed
-replication mechanisms.
 
 ## About 👀
 
