@@ -8,6 +8,7 @@
     <p>
         <a href="https://replica-io.dev/" target="_blank">Website</a> |
         <a href="https://github.com/orgs/replica-io/projects/1">Project Board</a> |
+        <a href="https://github.com/orgs/replica-io/discussions">Discussions</a> |
         <a href="https://discord.gg/CzPfN75URD">Discord</a> |
         <a href="https://www.youtube.com/@Replica_IO">YouTube</a> |
         <a href="https://x.com/Replica_IO">X / Twitter</a>
