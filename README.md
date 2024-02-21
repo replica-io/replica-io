@@ -15,7 +15,7 @@
     </p>
 </div>
 
-## About 👀
+## 👀 About
 
 This project is about making a breakthrough in designing and
 implementing distributed replication protocols for the future of
@@ -24,12 +24,12 @@ decentralized computing 🚀
 For more information, please visit the [project's
 website](https://replica-io.dev/).
 
-## Status 🌱
+## 🌱 Status
 
 This project is in its early stages. It's being developed entirely in
 the open from day one. So more stuff will follow. Stay tuned! 📡
 
-## Contributing 🙏
+## 🙏 Contributing
 
 The project's goal is quite ambitious, so your support is more than
 welcome! 🤗
@@ -50,7 +50,7 @@ Please ask questions, suggest ideas, report problems, submit changes!
 [discord-replica-io]: https://discord.gg/CzPfN75URD
 [youtube-replica-io]: https://www.youtube.com/@Replica_IO
 
-## License ⚖️
+## ⚖️ License
 
 Source code is licensed under the [Apache License, Version
 2.0](LICENSE).
