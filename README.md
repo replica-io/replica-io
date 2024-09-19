@@ -50,6 +50,15 @@ Please ask questions, suggest ideas, report problems, submit changes!
 [discord-replica-io]: https://discord.replica-io.dev
 [youtube-replica-io]: https://www.youtube.com/@Replica_IO
 
+## ❤️ Sponsors
+
+Supported through the [DYOR][by-dyor] funding program by BlueYard
+Capital.
+
+[<img alt="BlueYard Capital" src="https://replica-io.dev/img/blueyard-logo.jpg" width="64px" />](https://www.blueyard.com)
+
+[by-dyor]: https://blueyard.medium.com/announcing-the-blueyard-dyor-do-your-own-research-funding-program-9be5f2f23d37
+
 ## ⚖️ License
 
 Source code is licensed under the [Apache License, Version
